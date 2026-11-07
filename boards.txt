@@ -62550,7 +62550,7 @@ mannanauta.build.bootloader_addr=0x0
 mannanauta.build.target=esp32s3
 mannanauta.build.mcu=esp32s3
 mannanauta.build.core=esp32
-mannanauta.build.variant=esp32s3
+mannanauta.build.variant=mannanauta
 mannanauta.build.board=MANNANAUTA
 
 mannanauta.build.usb_mode=1
